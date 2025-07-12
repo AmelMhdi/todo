@@ -75,6 +75,15 @@ npm run build
 
 ## 📸 Screenshots
 
+Here's what the app looks like with tasks added:
+
+![Task List Screenshot](public/screenshots/todo-1.png)
+
+Here's what the list looks like when filtered by priority:
+
+![Task List Screenshot](public/screenshots/todo-2.png)
+
+
 ## 📦 Tech Stack
 - React – UI Library
 - TypeScript – Static typing
