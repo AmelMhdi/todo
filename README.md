@@ -7,7 +7,12 @@ A simple yet functional Todo list application built with **React**, **TypeScript
 - Persist tasks locally in the browser
 - Select and delete multiple tasks efficiently
 
----
+
+## 🚀 Live Demo
+
+Check out the live version of the app hosted on Vercel:
+
+🔗 https://todo-tan-psi-74.vercel.app
 
 ## 🚀 Features
 
@@ -19,10 +24,8 @@ A simple yet functional Todo list application built with **React**, **TypeScript
 - Responsive UI with Tailwind CSS
 - Icon support via [lucide-react](https://lucide.dev)
 
----
 
 ## 🧱 Components
-
 ### `App.tsx`
 
 Main application component:
@@ -31,7 +34,6 @@ Main application component:
 - Manages global task state and interactions
 
 ### `TodoItem.tsx`
-
 Reusable todo item component:
 - Displays task text and priority badge
 - Includes checkbox for selection
@@ -47,10 +49,7 @@ Reusable todo item component:
 />
 ```
 
----
-
 ## 🧑‍💻 Getting Started
- 
 ### Prerequisites
 
 - Node.js (v16+)
